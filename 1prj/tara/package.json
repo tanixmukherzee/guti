@@ -1,0 +1,9 @@
+{
+	"author":"T M KJ EE",
+	"name":"tara",
+	"version":"0.0.1",
+	"description":"tara - tara text",
+	"main":"tara",
+	"dependencies":{},
+	"engines":{"node":"*"}
+}
